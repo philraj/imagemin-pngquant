@@ -29,7 +29,7 @@
 		"is-png": "^1.0.0",
 		"is-stream": "^1.1.0",
 		"ow": "^0.8.0",
-		"pngquant-bin": "^5.0.0"
+		"pngquant-bin": "atma/pngquant-bin#fix/bin-domain"
 	},
 	"devDependencies": {
 		"@types/node": "^10.12.18",
